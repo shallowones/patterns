@@ -1,0 +1,6 @@
+export { Duck } from './Duck'
+export { FlyNoWay } from './FlyNoWay'
+export { FlyWithWings } from './FlyWithWings'
+export { MallardDuck } from './MallardDuck'
+export { MuteQuack } from './MuteQuack'
+export { Quack } from './Quack'
